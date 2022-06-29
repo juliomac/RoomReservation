@@ -1,0 +1,20 @@
+.App {
+  width:100%;
+  height:100%;
+  margin:0 auto;
+}
+
+
+.tooltip-place{
+  text-decoration: underline;
+  -webkit-text-decoration: underline;
+  cursor: help;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
